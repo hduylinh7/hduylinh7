@@ -22,21 +22,12 @@
 - 📍 **Based in** — Hanoi, Vietnam
 - 🎓 **Education** — Engineer Degree in Data Science, Hanoi University of Mining and Geology *(2022 – 2027 expected)*
 - 🧠 **Focus** — LLM agents · RAG · Text-to-SQL · Trust & safety · Backend engineering
-- 💼 **Currently** — AI Engineer Intern @ VinSmart Future
 - 🗣️ **Languages** — Vietnamese (native) · English (TOEIC 805/990)
-- 🤝 **Open to** — AI/LLM engineering and backend internships & junior roles
 
 I'm a Data Science student who likes the unglamorous parts of AI: schema-aware retrieval, AST guardrails, retry loops, and test suites that keep an agent honest. Lately I've been shipping agentic analytics over real e-commerce data, healthcare APIs on FHIR R4, and fraud-detection scoring for social platforms.
 
 ---
 
-## ⚡ Highlights
-
-| 🛡️ Trust & fraud detection | 🧪 DevSecOps by default | 🗣️ Bilingual Text-to-SQL |
-|:--|:--|:--|
-| 4-pillar trust scoring engine + 4-tier risk policy to isolate bots and malicious accounts | 130+ Pytest tests (85%+ coverage), Ruff, Gitleaks, pip-audit and Bandit on every PR | LangGraph agent answering Vietnamese & English questions over ~100k orders, with self-repair |
-
----
 
 ## 🧰 Tech stack
 
