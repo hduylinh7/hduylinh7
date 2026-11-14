@@ -129,12 +129,10 @@ Backend and agent layer for an academic planning and tutoring assistant, built i
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hduylinh7&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=4F46E5&icon_color=14B8A6&text_color=334155&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hduylinh7&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=4F46E5&text_color=334155&langs_count=8" alt="Top languages"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hduylinh7&theme=github" alt="Contribution summary"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=hduylinh7&hide_border=true&background=FFFFFF&stroke=E2E8F0&ring=4F46E5&fire=14B8A6&currStreakLabel=4F46E5&sideLabels=334155&dates=64748B&currStreakNum=0F172A&sideNums=0F172A" alt="Streak stats"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hduylinh7&bg_color=FFFFFF&color=4F46E5&line=14B8A6&point=0F172A&area=true&hide_border=true" alt="Activity graph"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hduylinh7&theme=github" alt="GitHub stats"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hduylinh7&theme=github" alt="Most used languages"/>
 
 </div>
 
