@@ -19,14 +19,12 @@
 
 ## 👋 About me
 
-|  |  |
-|:--|:--|
-| **📍 Based in** | Hanoi, Vietnam |
-| **🎓 Education** | Engineer Degree in Data Science · Hanoi University of Mining and Geology *(2022 – 2027 expected)* |
-| **🧠 Focus** | LLM agents · RAG · Text-to-SQL · Trust & safety · Backend engineering |
-| **💼 Currently** | AI Engineer Intern @ VinSmart Future |
-| **🗣️ Languages** | Vietnamese (native) · English (TOEIC 805/990) |
-| **🤝 Open to** | AI/LLM engineering and backend internships & junior roles |
+- 📍 **Based in** — Hanoi, Vietnam
+- 🎓 **Education** — Engineer Degree in Data Science, Hanoi University of Mining and Geology *(2022 – 2027 expected)*
+- 🧠 **Focus** — LLM agents · RAG · Text-to-SQL · Trust & safety · Backend engineering
+- 💼 **Currently** — AI Engineer Intern @ VinSmart Future
+- 🗣️ **Languages** — Vietnamese (native) · English (TOEIC 805/990)
+- 🤝 **Open to** — AI/LLM engineering and backend internships & junior roles
 
 I'm a Data Science student who likes the unglamorous parts of AI: schema-aware retrieval, AST guardrails, retry loops, and test suites that keep an agent honest. Lately I've been shipping agentic analytics over real e-commerce data, healthcare APIs on FHIR R4, and fraud-detection scoring for social platforms.
 
@@ -47,28 +45,27 @@ I'm a Data Science student who likes the unglamorous parts of AI: schema-aware r
 **Languages**
 
 <img src="https://skillicons.dev/icons?i=py,ts,js&theme=light" alt="Python, TypeScript, JavaScript"/>
-<img src="https://img.shields.io/badge/SQL-4F46E5?style=flat-square" alt="SQL"/>
 
 **AI & LLM engineering**
 
 <img src="https://skillicons.dev/icons?i=fastapi&theme=light" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" alt="LangChain"/>
-<img src="https://img.shields.io/badge/LangGraph-4F46E5?style=flat-square" alt="LangGraph"/>
-<img src="https://img.shields.io/badge/RAG-6366F1?style=flat-square" alt="RAG"/>
-<img src="https://img.shields.io/badge/Text--to--SQL-0EA5E9?style=flat-square" alt="Text-to-SQL"/>
-<img src="https://img.shields.io/badge/Agentic%20Workflows-14B8A6?style=flat-square" alt="Agentic Workflows"/>
-<img src="https://img.shields.io/badge/Tool%20Calling-0F9F95?style=flat-square" alt="Tool Calling"/>
+<img src="https://img.shields.io/badge/LangChain-4F46E5?style=for-the-badge" alt="LangChain"/>
+<img src="https://img.shields.io/badge/LangGraph-6366F1?style=for-the-badge" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/RAG-4F46E5?style=for-the-badge" alt="RAG"/>
+<img src="https://img.shields.io/badge/Text--to--SQL-6366F1?style=for-the-badge" alt="Text-to-SQL"/>
+<img src="https://img.shields.io/badge/Agentic%20Workflows-4F46E5?style=for-the-badge" alt="Agentic Workflows"/>
+<img src="https://img.shields.io/badge/Tool%20Calling-6366F1?style=for-the-badge" alt="Tool Calling"/>
 
 **Backend**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=light" alt="Node.js, Express, NestJS"/>
-<img src="https://img.shields.io/badge/FHIR%20R4-E11D48?style=flat-square" alt="FHIR R4"/>
-<img src="https://img.shields.io/badge/Medplum-1E293B?style=flat-square" alt="Medplum"/>
+<img src="https://img.shields.io/badge/FHIR%20R4-334155?style=for-the-badge" alt="FHIR R4"/>
+<img src="https://img.shields.io/badge/Medplum-334155?style=for-the-badge" alt="Medplum"/>
 
 **Data & infrastructure**
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker&theme=light" alt="PostgreSQL, MySQL, MongoDB, Redis, Docker"/>
-<img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" alt="Qdrant"/>
+<img src="https://img.shields.io/badge/Qdrant-0F766E?style=for-the-badge" alt="Qdrant"/>
 
 **Tooling**
 
@@ -82,16 +79,14 @@ I'm a Data Science student who likes the unglamorous parts of AI: schema-aware r
 
 ### AI Engineer Intern · **VinSmart Future**
 
-| `Sep 2026 – Nov 2026` | Hanoi, Vietnam |
-|:--|--:|
+`Sep 2026 – Nov 2026` · Hanoi, Vietnam
 
 - Built a **Trust & Fraud Detection** module for a social friend-recommendation system, featuring a **4-pillar trust scoring engine** (Authenticity, Interaction, Network, Content) and a **4-tier risk classification policy** to isolate bot and malicious accounts.
 - Built a **DevSecOps pipeline** with pre-commit hooks (Ruff, Gitleaks) and GitHub Actions running **130+ Pytest tests (85%+ coverage)**, pip-audit and Bandit on every pull request — catching issues locally and before merge.
 
 ### Backend Engineer Intern · **FPT Software**
 
-| `Mar 2026 – Aug 2026` | Hanoi, Vietnam |
-|:--|--:|
+`Mar 2026 – Aug 2026` · Hanoi, Vietnam
 
 - Built custom **FHIR R4 operations** (Medplum, Node.js, TypeScript) for **CareMate**, a healthcare platform, including a geospatial search API filtering clinics by proximity and real-time slot availability.
 - Engineered an automated cron bot and scheduler to track **medication adherence**, processing FHIR `Task` states and dispatching multi-language push notifications to patients.
