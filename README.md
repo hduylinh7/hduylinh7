@@ -45,6 +45,7 @@ I'm a Data Science student who likes the unglamorous parts of AI: schema-aware r
 **Languages**
 
 <img src="https://skillicons.dev/icons?i=py,ts,js&theme=light" alt="Python, TypeScript, JavaScript"/>
+<img src="https://img.shields.io/badge/SQL-4F46E5?style=for-the-badge" alt="SQL"/>
 
 **AI & LLM engineering**
 
