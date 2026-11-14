@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Hoang Duy Linh — Data Science Engineer, AI and Backend"/>
+  <img src="./assets/banner.svg?v=2" width="100%" alt="Hoang Duy Linh — Data Science Engineer, AI and Backend"/>
 </div>
 
 <div align="center">
