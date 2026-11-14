@@ -3,10 +3,6 @@
 </div>
 
 <div align="center">
-  <img src="./assets/avatar-ring.svg" width="240" alt="Hoang Duy Linh"/>
-</div>
-
-<div align="center">
 
 <a href="https://linkedin.com/in/duylinhth7"><img src="https://img.shields.io/badge/LinkedIn-duylinhth7-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:hduylinh7@gmail.com"><img src="https://img.shields.io/badge/Email-hduylinh7@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
