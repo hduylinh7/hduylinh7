@@ -3,6 +3,10 @@
 </div>
 
 <div align="center">
+  <img src="./assets/avatar-ring.svg" width="240" alt="Hoang Duy Linh"/>
+</div>
+
+<div align="center">
 
 <a href="https://linkedin.com/in/duylinhth7"><img src="https://img.shields.io/badge/LinkedIn-duylinhth7-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:hduylinh7@gmail.com"><img src="https://img.shields.io/badge/Email-hduylinh7@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -89,9 +93,9 @@ I'm a Data Science student who likes the unglamorous parts of AI: schema-aware r
 
 ## 🚀 Featured projects
 
-### 🗣️ Conversational Analytics Agent — Text-to-SQL
+### 🗣️ [Conversational Analytics Agent — Text-to-SQL](https://github.com/hduylinh7/conversational-analytics-agent)
 
-<sub>`LangGraph` · `FastAPI` · `PostgreSQL` · `Redis` · `sqlglot` · `Docker`</sub>
+<sub>`LangGraph` · `FastAPI` · `PostgreSQL` · `Redis` · `sqlglot` · `Docker` — **[view repository →](https://github.com/hduylinh7/conversational-analytics-agent)**</sub>
 
 A bilingual analytics agent that turns business questions into safe, executable SQL over ~100k e-commerce orders.
 
@@ -100,9 +104,9 @@ A bilingual analytics agent that turns business questions into safe, executable 
 - **Bilingual semantic layer** — YAML metrics and join paths with hybrid retrieval (n-grams + vector embeddings, Vietnamese diacritic-insensitive), avoiding fan-out and chasm-trap joins.
 - **Async backend** — SSE streaming of agent node transitions, 3-tier Redis caching, token-bucket rate limiting, Redis checkpointer for multi-turn state, and a 4-layer Pytest evaluation suite.
 
-### 📚 AI Learning Companion Agent
+### 📚 [AI Learning Companion Agent](https://github.com/hduylinh7/P-043)
 
-<sub>`LangGraph` · `Qdrant` · `FastAPI` · `PostgreSQL` · `Redis` · `Docker`</sub>
+<sub>`LangGraph` · `Qdrant` · `FastAPI` · `PostgreSQL` · `Redis` · `Docker` — **[view repository →](https://github.com/hduylinh7/P-043)**</sub>
 
 Backend and agent layer for an academic planning and tutoring assistant, built in a team.
 
